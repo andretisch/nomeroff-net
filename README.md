@@ -17,7 +17,7 @@ Nomeroff Net requires Python >= 3.7
 
 Clone Project
 ```bash
-git clone [https://github.com/ria-com/nomeroff-net.git](https://github.com/andretisch/nomeroff-net.git)
+git clone https://github.com/andretisch/nomeroff-net.git
 cd nomeroff-net
 ```
 
